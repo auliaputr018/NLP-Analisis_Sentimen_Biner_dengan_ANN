@@ -235,11 +235,11 @@ The model performs slightly better in detecting negative sentiment, which aligns
 
 ## Confusion Matrix
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](assets/cm.png)
 
 ## Training History
 
-![Training History](assets/training_history.png)
+![Training History](assets/training.png)
 
 ---
 
